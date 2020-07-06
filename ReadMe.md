@@ -21,6 +21,7 @@ The main objetive with this data is to understand the data itself and to generat
 * Purchasing Analysis
   * General
   * Per Gender
+  * Per Age
   * Top Spenders
   * Top Popular Items
   * Top Profitable Items
@@ -43,7 +44,29 @@ The main objetive with this data is to understand the data itself and to generat
 
 ### Purchasing Analysis
 
+#### General
 
+![Results of general analysis](Images/general_analysis.png)
+
+#### Per Gender
+
+![Results of gender analysis](Images/gender_analysis.png)
+
+#### Per Age
+
+![Results of age analysis](Images/age_analysis.png)
+
+#### Top Spenders
+
+![Results of top spenders](Images/top_players.png)
+
+#### Top Popular Items
+
+![Results of top popular items](Images/top_popular_items.png)
+
+#### Top Profitable Items
+
+![Results of top profitable items](Images/top_profitable_items.png)
 
 ## Copyright
 
