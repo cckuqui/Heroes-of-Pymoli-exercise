@@ -19,11 +19,30 @@ The main objetive with this data is to understand the data itself and to generat
   * Gender Demographics
   * Age Demographics
 * Purchasing Analysis
-  * Total
+  * General
   * Per Gender
   * Top Spenders
   * Top Popular Items
   * Top Profitable Items
+
+## Results
+
+### Exploration of data
+
+#### Player count
+
+![Results of player count](Images/total_players.png)
+
+#### Gender Demographics
+
+![Results of gender demographics](Images/gender_demo.png)
+
+#### Age Demographics
+
+![Results of age demographics](Images/age_demo.png)
+
+### Purchasing Analysis
+
 
 
 ## Copyright
