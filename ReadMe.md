@@ -70,4 +70,4 @@ The main objetive with this data is to understand the data itself and to generat
 
 ## Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved. First image is from [RealPython](https://realpython.com/)
+First image is from [RealPython](https://realpython.com/)
